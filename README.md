@@ -3,7 +3,9 @@ Audio streaming for SNES/SPC700
 
 
 Copyright (C) 2014,2015 Christopher Jack
+
 Released under the terms of the GNU LGPL 3.0 license (see: LICENSE)
+
 No warrnaties of any kind.
 
 
