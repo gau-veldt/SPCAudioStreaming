@@ -1,11 +1,11 @@
 # SPC Audio Streaming
 Audio streaming for SNES/SPC700
 
+
 Copyright (C) 2014,2015 Christopher Jack
-
 Released under the terms of the GNU LGPL 3.0 license (see: LICENSE)
-
 No warrnaties of any kind.
+
 
 Related discussion (forum) on romhacking.net:
 http://www.romhacking.net/forum/index.php/topic,17929.0.html
