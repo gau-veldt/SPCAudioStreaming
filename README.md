@@ -1,4 +1,4 @@
-# SPCAudioStreaming
+# SPC Audio Streaming
 Audio streaming for SNES/SPC700
 
 Related discussion (forum) on romhacking.net:
